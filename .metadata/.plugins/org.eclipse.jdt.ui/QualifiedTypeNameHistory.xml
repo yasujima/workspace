@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.jdo.JDOHelper"/>
+<fullyQualifiedTypeName name="javax.jdo.PersistenceManagerFactory"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.IdGeneratorStrategy"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.PersistenceAware"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.PersistenceCapable"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.IdentityType"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.PrimaryKey"/>
+<fullyQualifiedTypeName name="javax.jdo.annotations.Persistent"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.jdo.PersistenceManager"/>
+<fullyQualifiedTypeName name="org.gtugs.codelab.appengine.blog.datastore.Post"/>
+</qualifiedTypeNameHistroy>

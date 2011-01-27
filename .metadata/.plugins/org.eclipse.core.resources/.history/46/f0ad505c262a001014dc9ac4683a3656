@@ -1,0 +1,7 @@
+package org.gtugs.codelab.appengine.blog;
+
+import javax.servlet.http.HttpServlet;
+
+public class PostServlet extends HttpServlet {
+
+}
